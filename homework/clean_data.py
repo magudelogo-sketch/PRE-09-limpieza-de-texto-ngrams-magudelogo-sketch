@@ -90,4 +90,3 @@ if __name__ == "__main__":
         input_file="files/input.txt",
         output_file="files/output.txt",
     )
-
